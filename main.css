@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: verdana;
+}
+h1{
+    color: #4a4a4a;
+    text-align: center;
+    font-size: 45px;
+    font-weight: normal;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+h2{
+    color: #949494;
+    text-align: center;
+    font-size: 13px;
+}
+h3{
+    color: #281A39;
+}
+#social_links img{
+    width: 20px;
+    height: 20px;
+}
+#over_nav_bar{
+    text-align: center;
+}
